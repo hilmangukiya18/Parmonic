@@ -1,2 +1,2 @@
 # Parmonic
-Regarding LLMs 
+Regarding LLMs APIs
