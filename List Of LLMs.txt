@@ -1,0 +1,21 @@
+List of LLMs whose APIs are Freely available
+(1)LLaMA and Llama2 (Meta)
+(2)Gemini Pro
+(3)Cerebras-GPT (Cerebras)
+(4)WizardLM
+(5)StableBeluga2
+(6)Mistral
+(7)Gorilla (POET)
+(8)GPT4All
+(9)Koala
+(10)Vicuna (FastChat)
+(11)Lit-LLaMA ️
+(12)LongLLaMA
+(13)OpenAlpaca
+(14)StableVicuna
+(15)Falcon LLM
+(16)FastChat-T5
+(17)Flan-UL2
+(18)GPT-J (EleutherAI)
+(19)Dolly (Databricks)
+(20)GPT4All-J
