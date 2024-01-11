@@ -1,0 +1,2 @@
+# Parmonic
+Regarding LLMs 
